@@ -51,7 +51,7 @@
 1. :kiss:你不知道的 JavaSciprt 上卷 by Kyle Simpson 2017/05
 1. JavaScript 语言精粹 by Douglas Crockford 2017/10
 1. :kiss:JavaScript 高级程序设计 by 2017/11
-1. ECMAScript 6 入门 by 阮一峰 2017/07
+1. :kiss:ECMAScript 6 入门 by 阮一峰 2017/07
 
 # 杂类
 1. 程序员的呐喊，by Steve Yegge 2017/09
