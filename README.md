@@ -52,7 +52,12 @@
 1. JavaScript 语言精粹 by Douglas Crockford 2017/10
 1. :kiss:JavaScript 高级程序设计 by 2017/11
 1. :kiss:ECMAScript 6 入门 by 阮一峰 2017/07
+<<<<<<< Updated upstream
 1. [Node 入门](https://www.nodebeginner.org/index-zh-cn.html) by Manuel Kiessling 2018/06
+=======
+1. 图解 HTTP 2020/02
+1. 数据结构与算法 2020/08
+>>>>>>> Stashed changes
 
 # 杂类
 1. 程序员的呐喊，by Steve Yegge 2017/09
