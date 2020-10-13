@@ -55,7 +55,7 @@
 1. [Node 入门](https://www.nodebeginner.org/index-zh-cn.html) by Manuel Kiessling 2018/06
 1. 图解 HTTP 2020/02
 1. 数据结构与算法 2020/08
-1. 你不知道的JavaSript上 2020/10
+1. 你不知道的JavaSript(上) 2020/10
 
 # 杂类
 1. 程序员的呐喊，by Steve Yegge 2017/09
